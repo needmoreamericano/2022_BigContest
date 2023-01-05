@@ -22,3 +22,6 @@
 
 - Grand(2nd) Prize (Korea Association of ICT Promotion)
 - Prediction Model F1 score = 0.4419
+
+![빅콘테스트 사진1](https://user-images.githubusercontent.com/87636737/210704327-d2642626-0eb8-44c2-97b2-9a1dd73b01b5.jpg)
+![빅콘테스트 사진4](https://user-images.githubusercontent.com/87636737/210704334-ca61478b-db65-4890-a7b6-c89a2aaf1ac2.jpg)
